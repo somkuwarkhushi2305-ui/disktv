@@ -1,7 +1,6 @@
 
 # DistKV — In-Memory Key-Value Store
 
->>>>>>> 8e28fca (docs: update README and remove build directory)
 A Redis-like in-memory key-value store built from scratch in **C++17**.  
 No external libraries — raw TCP sockets, POSIX threads, and STL only.
 
